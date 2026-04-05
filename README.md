@@ -11,6 +11,8 @@ O Timby é uma plataforma social com foco em parentalidade, criada para conectar
 
 Além de ser um espaço informativo, o Timby se diferencia por seu sistema de missões, que sugere atividades e momentos de conexão entre pais e filhos. O objetivo é fortalecer os laços familiares e oferecer suporte prático, adaptado a diferentes rotinas e necessidades.
 
+[Vídeo de funcionamento do Timby antes do seu desligmento.](https://www.youtube.com/watch?v=eDLfdd0xg3c)
+
 ## Começando
 
 Você pode executar o projeto usando Docker ou localmente com um ambiente virtual Python.
@@ -25,7 +27,7 @@ Você pode executar o projeto usando Docker ou localmente com um ambiente virtua
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/timby.git
+    git clone https://github.com/espinafr/timby
     cd timby
     ```
 
@@ -44,7 +46,7 @@ Você pode executar o projeto usando Docker ou localmente com um ambiente virtua
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/timby.git
+    git clone https://github.com/espinafr/timby
     cd timby
     ```
 
@@ -75,9 +77,3 @@ Você pode executar o projeto usando Docker ou localmente com um ambiente virtua
 5.  **Acesse a aplicação:**
 
     Abra seu navegador e acesse `http://localhost:5000`.
-
-## Contribuições
-
-Este projeto foi desenvolvido como um Trabalho de Conclusão de Curso (TCC). No momento, contribuições diretas via pull request não estão sendo aceitas.
-
-No entanto, sinta-se à vontade para explorar o código, testar a aplicação e relatar quaisquer bugs ou sugestões abrindo uma **Issue** aqui no GitHub. Todo feedback é bem-vindo!
